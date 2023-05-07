@@ -8,3 +8,4 @@ AntColony : is the simple implementation Ant Colony Systems (ACS) , Elite Ant Sy
 
 VNS: is the implementation for Variable Neightbourhood Search (VNS).
   
+Set_A_Augerat_1995 : Contains the data set used. More Data Sets Can be found at CVRPLIB (http://vrp.atd-lab.inf.puc-rio.br/index.php/en/). 
